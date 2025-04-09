@@ -7,6 +7,9 @@
 - [Operating Systems Notes by Apna College](https://drive.google.com/drive/folders/1XGI3YnWEviwJ3MryCH2f7dhlN9tnYTzh)
 - [Operating Systems Mock Test](https://learn.codehelp.in/courses/Operating-System-Mock-Test-666463b225d5fb60837d37ef)
 
+## Linux Commands
+- https://github.com/spacedust26/The_Everything_Series/blob/main/linux_commands.md
+
 ## Data structures and algorithms
 - [TakeUForward - Striver](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [CodeHelp - Love Babbar](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
